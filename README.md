@@ -1,8 +1,14 @@
-# blomstra/flarum-horizon (Archive)
+# blomstra-flarum-horizon (Archive)
 
-> **Read-only archive of released versions of blomstra/flarum-horizon.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/flarum-horizon) or the [upstream repository](https://github.com/blomstra/flarum-horizon).
+> **Read-only archive of released versions for blomstra/flarum-horizon, blomstra/horizon.** Not for installation: use Packagist or the [upstream repository](https://github.com/blomstra/flarum-horizon).
 
-**18** versions archived · Latest: [`0.4.3`](https://github.com/flarchive/blomstra-flarum-horizon/tree/archive/v0.4.3) · License: `MIT` · Flarum: `^1.8`
+**18** versions archived · Latest: [`0.1-beta.1`](https://github.com/flarchive/blomstra-flarum-horizon/tree/archive/v0.1-beta.1) (stable: [`0.2.0`](https://github.com/flarchive/blomstra-flarum-horizon/tree/archive/v0.2.0)) · License: `MIT` · Flarum: `^0.1.0-beta.10`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`blomstra/flarum-horizon`](https://packagist.org/packages/blomstra/flarum-horizon)
+- [`blomstra/horizon`](https://packagist.org/packages/blomstra/horizon)
 
 ## Archived Versions
 
@@ -21,7 +27,10 @@
 
 [View all 18 versions](https://github.com/flarchive/blomstra-flarum-horizon/tags)
 
-Catalog entry: [packages/blomstra-flarum-horizon.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-flarum-horizon.json)
+## Catalog entries
+
+- [`blomstra/flarum-horizon`](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-flarum-horizon.json)
+- [`blomstra/horizon`](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-horizon.json)
 
 ## About this archive
 
